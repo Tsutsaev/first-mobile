@@ -1,0 +1,40 @@
+body {
+    background-image: radial-gradient(100% 100% at 14.34% -11.49%, rgba(22, 28, 36, 0.48) 0%, rgba(22, 28, 36, 0.8) 49.86%, #161C24 100%, #161C24 100%, #161C24 100%), url(../images/Group\ 2.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    color: #FFFFFF;
+}
+
+.container {
+    margin: 32px 16px 144px 16px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 90px;
+}
+
+.logo {
+    display: flex;
+}
+
+.logo-inner {
+    width: 20px;
+    height: 20px;
+    margin-right: 8px;
+}
+
+.login {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.logo-txt {
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 19px;
+}
